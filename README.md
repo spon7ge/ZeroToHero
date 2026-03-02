@@ -1,6 +1,11 @@
 # Data-Science-Resources
 Curated list of important data science resources
-
+## CURRENT STUDY PLAN
+* SQL 50
+* Leetcode (Easy & Mediums)
+* Khan Academy for Probability Concepts
+* ML Theory using NBA datasets
+  
 ## Python, Pandas, SQL
 * **[Book] [Python for Data Analysis by Wes McKinney](https://www.oreilly.com/library/view/python-for-data/9781098104023) &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/wesm/pydata-book)**
 * [Google's Course] [Google's Python Class](https://developers.google.com/edu/python)
