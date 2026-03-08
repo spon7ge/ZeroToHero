@@ -1,8 +1,8 @@
 # Data-Science-Resources
 Curated list of important data science resources
 ## CURRENT STUDY PLAN
-* SQL 50
-* Leetcode (Easy & Mediums)
+* SQL 50 / Datalemur Interview Questions
+* Leetcode - (Easy & Mediums)
 * Khan Academy for Probability Concepts
 * ML Theory using NBA datasets
   
